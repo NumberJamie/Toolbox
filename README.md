@@ -66,11 +66,11 @@ file_count.start_count()
 This will print:
 ```json
 {
-    '.jpg': 2,
-    '.png': 1,
-    'poems': {
-        '.txt': 1,
-        '.jpg': 1
+    ".jpg": 2,
+    ".png": 1,
+    "poems": {
+        ".txt": 1,
+        ".jpg": 1
     }
 }
 ```
